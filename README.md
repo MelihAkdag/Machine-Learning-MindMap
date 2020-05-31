@@ -1,5 +1,5 @@
 # Machine-Learning-MindMap
-This is a mindmap for step by step machine learning projects using Python.
+This is a mindmap with a step by step approach for machine learning projects using Python.
 
 This is a project which I have started while I was learning Machine Learning.
 
